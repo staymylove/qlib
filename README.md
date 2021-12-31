@@ -1,0 +1,4 @@
+# qlib
+task1为官网给出的样例以跑通程序
+task2为基于CNN的demo
+task3为qlib搭建的完整的流程
