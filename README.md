@@ -1,4 +1,4 @@
 # qlib
-task1为官网给出的样例以跑通程序
-task2为基于CNN的demo
-task3为qlib搭建的完整的流程
+task1通过官网给出的样例，进行文件配置以跑通程序
+task2为基于pytorch的resnet18的模型，进行test
+task3_demo为测试qlib架构的demo，work_flow为qlib搭建的完整的框架
